@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 5px;
+    padding: 5px;      
+}
+header {
+    background-color: #328f35;
+    color: white;
+    padding: 15px 0;
+    color: #f1f516;
+}
+nav ul {
+    list-style: none;
+    padding: 0px;
+    text-align: right;
+    height: 30px;
+}
+nav ul li {
+    display: inline;
+    margin: 0 10px;   
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;   
+}
+main {
+    padding: 20px;
+    text-align: center;   
+}
+.galeria img {
+    width: 150px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 3px solid #24b328;
+}
+footer {
+    color: rgb(19, 3, 3);
+    padding: 10px 0;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
